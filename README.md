@@ -1,4 +1,4 @@
-# env
+# env - parsing shell environment variables
 
 **contact**: [Guillaume Boulant](mailto:gboulant@gmail.com?subject=dingo-env)
 
